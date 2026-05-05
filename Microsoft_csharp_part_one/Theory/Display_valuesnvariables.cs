@@ -1,4 +1,4 @@
-string name = Bob;
+string name = "Bob";
 int messages = 3;
 decimal temperature = 34.4m;
 
